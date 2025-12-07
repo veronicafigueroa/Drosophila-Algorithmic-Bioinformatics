@@ -1,3 +1,5 @@
+Data is from my published reseatch article About "The Effect of Developmental Pleiotropy on the Evolution of Insect Immune Genes" by Alissa M Williams, Thi Minh Ngo, Veronica E Figueroa, Ann T Tate (https://doi.org/10.1093/gbe/evad044). Includes gene classifications, scripts, untrimmed and trimmed alignments, PAML output, and MultiDFE input and output.
+
 Abbreviations:
 plei = pleiotropic genes
 nonplei/nonpleiotropic = non-pleiotropic immune genes
